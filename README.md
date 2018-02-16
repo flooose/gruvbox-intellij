@@ -7,6 +7,23 @@ I used the [emacs port](https://github.com/Greduan/emacs-theme-gruvbox) as a
 starting point and plan to get this port included in the
 [gruvbox-contrib](https://github.com/morhetz/gruvbox-contrib) repo.
 
+### Installation
+
+At the moment I don't have any releases, so in order to use the color scheme,
+you have clone this repository. After that, go to "Color scheme" in the Intellij
+settings
+
+![](https://i.imgur.com/1Q8ET75.png)
+
+click on the ![](https://imgur.com/9DVPx5h.png)-icon to the right of the color
+scheme drop-down, select "Intellij IDEA color scheme" from the "Import Scheme"
+submenu
+
+![](https://i.imgur.com/hgJlefh.png)
+
+now navigate to the repository and select the file "gruvbox-light.icls". Click
+"Apply" and that's it!
+
 ### Why only gruvbox light?
 
 There seems to already be a port of gruvbox dark
